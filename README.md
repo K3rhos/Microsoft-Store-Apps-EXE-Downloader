@@ -4,7 +4,7 @@
 
 # ⚙️ Microsoft Store Apps EXE Downloader
 
-This tool allow you to download apps executable file from the [Microsoft Official Web Store](https://apps.microsoft.com/) without needing the Microsoft Store installed on your computer.
+This tool allow you to download apps executable file from the [Microsoft Official Web Store](https://apps.microsoft.com/) without needing to have it installed on your computer.
 
 It's really useful when you have a custom version of Windows (LTSC, tiny11, etc...) or if you just don't want to use the store to install your apps.
 
