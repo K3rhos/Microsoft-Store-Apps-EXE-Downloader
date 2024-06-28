@@ -16,7 +16,7 @@ It's really useful when you have a custom version of Windows (LTSC, tiny11, etc.
 
 <img src="https://github.com/K3rhos/Microsoft-Store-Apps-Direct-Downloader/assets/30273537/d308b5e1-c1c8-4a16-9f2e-fa52304a7eab" width="600" />
 
-- Copy & paste this URL inside the tool
+- Copy & paste the URL inside the tool
 
 <img src="https://github.com/K3rhos/Microsoft-Store-Apps-Direct-Downloader/assets/30273537/f0aded28-bb5e-43ea-9999-7e9c65e32126" width="600" />
 
