@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Microsoft Store Apps Direct Downloader", "Microsoft Store Apps Direct Downloader.vcxproj", "{9D2F621F-4849-425A-BA5A-A09773EEC3CD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Microsoft Store Apps EXE Downloader", "Microsoft Store Apps EXE Downloader.vcxproj", "{9D2F621F-4849-425A-BA5A-A09773EEC3CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

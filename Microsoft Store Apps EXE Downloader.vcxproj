@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{9d2f621f-4849-425a-ba5a-a09773eec3cd}</ProjectGuid>
-    <RootNamespace>MicrosoftStoreAppsDirectDownloader</RootNamespace>
+    <RootNamespace>MicrosoftStoreAppsEXEDownloader</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Microsoft Store Apps EXE Downloader</ProjectName>
   </PropertyGroup>
