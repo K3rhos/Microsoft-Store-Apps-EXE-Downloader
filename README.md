@@ -6,7 +6,7 @@
 
 This tool allow you to download apps executable file from the [Microsoft Official Web Store](https://apps.microsoft.com/) without needing the Microsoft Store installed on your computer.
 
-It's really useful when you have a custom version of Windows (or LTSC versions) or if you just don't want to use the store to install your apps.
+It's really useful when you have a custom version of Windows (LTSC, tiny11, etc...) or if you just don't want to use the store to install your apps.
 
 # 📑 How to use ?
 
