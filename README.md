@@ -8,6 +8,8 @@ This tool allow you to download apps executable file from the [Microsoft Officia
 
 It's really useful when you have a custom version of Windows (LTSC, tiny11, etc...) or if you just don't want to use the store to install your apps.
 
+<img src="https://github.com/K3rhos/Microsoft-Store-Apps-EXE-Downloader/assets/30273537/6fd4eb07-15c3-4537-9a2b-d1c847ccf537" width="400" />
+
 # 📑 How to use ?
 
 - Download the [latest release](https://github.com/K3rhos/Microsoft-Store-Apps-Direct-Downloader/releases)
